@@ -1,4 +1,6 @@
-## Hi there 👋
+## hola maquinas 👋
+soy carlos, estudio ingenieria civil en computacion en la universidad de talca.
+me gusta programar, el desarrollo web y jugar lol
 
 <!--
 **CarlosMatute-dev/CarlosMatute-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
